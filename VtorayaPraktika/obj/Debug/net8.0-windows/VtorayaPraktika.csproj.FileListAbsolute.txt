@@ -1,0 +1,5 @@
+D:\VtorayaPraktika\VtorayaPraktika\obj\Debug\net8.0-windows\CertificatePAge.g.cs
+D:\VtorayaPraktika\VtorayaPraktika\obj\Debug\net8.0-windows\FightPage.g.cs
+D:\VtorayaPraktika\VtorayaPraktika\obj\Debug\net8.0-windows\App.g.cs
+D:\VtorayaPraktika\VtorayaPraktika\obj\Debug\net8.0-windows\VtorayaPraktika_MarkupCompile.cache
+D:\VtorayaPraktika\VtorayaPraktika\obj\Debug\net8.0-windows\VtorayaPraktika_MarkupCompile.lref
