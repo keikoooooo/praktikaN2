@@ -5,8 +5,16 @@
     <Compile Update="CertificatePAge.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Competition.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="FightPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Competition.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>
